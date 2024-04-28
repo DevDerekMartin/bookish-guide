@@ -2,10 +2,7 @@
 
 Este es un sitio web simple que muestra información personal sobre Derek Martin Chuquizala Kohls. 
 
-## Vista Previa
 
-![Vista Previa](preview.png)
-¿
 ## Descripción
 
 Este sitio web contiene información básica sobre Derek Martin Chuquizala Kohls, incluyendo su fotografía de presentación y diversos datos personales.
@@ -19,11 +16,11 @@ Este sitio web contiene información básica sobre Derek Martin Chuquizala Kohls
 
 ### Escritorio
 
-![Escritorio](Escritorio.png)
+![Escritorio](./html1/Escritorio.png)
 
 ### Dispositivos Móviles
 
-![Móvil](Celular.png.png)
+![Móvil](./html1/Celular.png.png)
 
 ## Instrucciones de Uso
 
