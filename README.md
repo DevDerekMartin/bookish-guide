@@ -20,7 +20,7 @@ Este sitio web contiene información básica sobre Derek Martin Chuquizala Kohls
 
 ### Dispositivos Móviles
 
-![Móvil](./html1/Celular.png.png)
+![Móvil](./html1/Celular.png)
 
 ## Instrucciones de Uso
 
